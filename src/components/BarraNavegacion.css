@@ -1,0 +1,18 @@
+.bg-body-tertiary.navbar,
+.mi-navbar.navbar {
+  background-color: #b63dd1 !important;
+  padding: 20px ;
+  border-bottom: 20px solid #b87fd8;
+}
+
+.bg-body-tertiary .navbar-brand,
+.bg-body-tertiary .nav-link,
+.mi-navbar .navbar-brand,
+.mi-navbar .nav-link {
+  color: #ffffff !important;
+}
+
+.icono-usuario{
+  background-color: #02760c8a;
+  color: aqua;
+}
